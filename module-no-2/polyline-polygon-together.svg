@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 200" height="200" width="200">
+<polyline
+        points="20,150 80,60 140,170 200,80 260,150"
+        stroke="blue"
+        stroke-width="5"
+        fill="none" />
+
+    <polygon
+        points="350,50 450,220 250,220"
+        stroke="green"
+        stroke-width="4"
+        fill="lightgreen" />
+
+
+</svg>
